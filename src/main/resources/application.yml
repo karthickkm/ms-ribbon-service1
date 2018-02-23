@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ms-ribbon-service1
+
+server:
+  #port: 8090
+  #port: 9092
+  port: 9999
